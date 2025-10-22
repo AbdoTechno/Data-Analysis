@@ -157,11 +157,9 @@ textblob==0.18.0
 
 ## 📬 Contact
 
-**Author:** Mahmoud Ayman
-**Email:** [mahmoudabelnaga11@gmail.com](mailto:mahmoudabelnaga11@gmail.com)
-**LinkedIn:** [linkedin.com/in/mahmoud-abo-elnaga](https://linkedin.com/in/mahmoud-abo-elnaga)
+**Author:** Abdul Rahman Al-Shennawy
+**Email:** [abdoalsenawework@gmail.com](mailto:abdoalsenawework@gmail.com)
+**LinkedIn:** [linkedin.com/in/abdotech](https://www.linkedin.com/in/abdotech/)
 
-
-هل تحب أضيف كمان سطر **"📸 Screenshot Preview"** فوق (بحيث تحط صورة من الـ Streamlit dashboard لما ترفعها)؟  
-ممكن أجهز لك الجزء الجاهز فيه الكود اللي يعرض الصورة تلقائيًا لو حابب.
 ```
+
